@@ -1,0 +1,1 @@
+// fetch data from movie api on server side
